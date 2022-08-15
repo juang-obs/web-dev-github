@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is 1's commit!
+This is first commit!
 =======
 This is second a commit!
 >>>>>>> feature
